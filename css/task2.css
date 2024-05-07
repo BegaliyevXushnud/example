@@ -1,0 +1,58 @@
+body{
+    background-color: #FFFFFF;
+}
+.katta{
+    width: 1400px;
+    height: 1110px;
+   
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.kichik{
+    width: 940px;
+    height: 270px;
+    
+    margin: 0 auto;
+    display: flex; 
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.kichik img{
+    width: 440px;
+    height: 270px;
+    object-fit: cover;   
+}
+.kichik h2{
+    font-weight: 500;   
+    font-size: 24px;
+    line-height: 24px;
+}
+.p{
+    width: 460px;
+    height: 88px;
+    padding: 5px;
+    margin-top: -0.5cm;
+}
+.p p{
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 400;
+}
+span{
+ line-height: 22px;
+   color: #95A1BB;
+   font-weight: 400;
+}
+.span{
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-left: 6cm;
+    color: #6E38F7;
+}

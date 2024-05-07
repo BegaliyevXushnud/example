@@ -1,0 +1,52 @@
+
+.kattadiv{
+    width: 1400px;
+    height: 1223px;
+  
+    margin: 0 auto;
+}
+h1{
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    font-weight: 500;
+}
+p{
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    font-weight: 400;
+}
+.kichikdiv{
+    width: 940px;
+    height: 424px;
+
+    margin: 0 auto;
+    
+}
+.kichikdiv img{
+    width: 940px;
+    height: 250px;
+   object-fit: cover;
+    
+}
+.kichikdiv h2{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+    
+}
+.kichikdiv h3{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    
+}
+span{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #95A1BB;
+    letter-spacing: 3px;
+    margin-left: 0cm;
+}
